@@ -3,6 +3,8 @@
 Sean Allen 유튜버님의 영상
 https://youtu.be/FwGMU_Grnf8
 
+SwiftUI MVVM Demo 프로젝트
+
 ## Overview
 
 AppetizerListViewModel에서 네트워크 처리작업을 수행한다.
