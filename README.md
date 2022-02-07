@@ -28,3 +28,5 @@ https://jusung.github.io/Result-타입/
 JSON Parsing 비교
 https://learn-hyeoni.tistory.com/45
 
+네트워크 처리방식 - let us: Go! 2019 여름
+https://youtu.be/MJRYHtnvkqM
